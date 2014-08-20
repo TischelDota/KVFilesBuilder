@@ -14,7 +14,7 @@ How to use:
 --------------
 - Drop make_kv.py in your "dota_ugc/game/dota_addons/YOUR_ADDON/scripts/npc/" folder
 - Create a folder for each kv file you want to split (abilities, items or units)
-- Add the subfiles in the folders. (Note: They will added in the final final in alphabetical order)
+- Add the subfiles in the folders. (Note: They will added in alphabetical order to the output file)
 - Run "python build_kv.py [abilities/items/units/all]"
 
-**Contaxt: tischeldota@gmail.com**
+**Contact: tischeldota@gmail.com**
