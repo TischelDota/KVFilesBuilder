@@ -32,7 +32,7 @@ def write_header(file, kvFilename):
 
 
 def write_end(file):
-	file.write("}")
+	file.write("\n}")
 
 
 def main():
